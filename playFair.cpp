@@ -1,6 +1,6 @@
 /*
     @AUTHOR: S.ABILASH
-    COMMENT: GOT BORED AGAIN
+    COMMENT: idont know this code is valid 
 */
 #include <iostream>
 #include <string>
